@@ -1,0 +1,13 @@
+.imagem-mostruario {
+  height: 80px;
+  width: 50px;
+  object-fit: contain;
+}
+
+#titulo {
+  font-size: 25px;
+  text-shadow: 2px 2px 5px;
+  font-variant: small-caps;
+  border: 15px solid white;
+  border-radius: 20px;
+}
